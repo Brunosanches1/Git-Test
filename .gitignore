@@ -1,0 +1,4 @@
+#Ignoring compile files
+
+*.exe
+*.o
